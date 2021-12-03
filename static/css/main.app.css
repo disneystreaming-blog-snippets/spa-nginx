@@ -1,0 +1,19 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', Helvetica, sans-serif;
+}
+
+.greeting-box,
+.not-found-box {
+  width: 100%;
+  margin-top: 5vh;
+  text-align: center;
+  font-size: 4vh;
+}
+
+.greeting-box h1,
+.not-found-box h1 {
+  font-size: 10vh;
+}
