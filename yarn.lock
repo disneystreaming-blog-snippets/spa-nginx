@@ -3169,12 +3169,10 @@ vfile@^4.0.0:
     unist-util-stringify-position "^2.0.0"
     vfile-message "^2.0.0"
 
-web-router.js@^4.1.2:
-  version "4.1.2"
-  resolved "https://registry.yarnpkg.com/web-router.js/-/web-router.js-4.1.2.tgz#b0720c0b461c1687cce270997427e7c5951f1e98"
-  integrity sha512-REiEzMBJUGjiEudkKO3MM3YxdYGe8fEpYVSZTy9dPWuHQg0A9xSWaFJHpXCxgALMW0DEnPjLL9VemsqFLGRFVg==
-  dependencies:
-    lodash "^4.17.20"
+web-router.js@^4.1.3:
+  version "4.1.3"
+  resolved "https://registry.yarnpkg.com/web-router.js/-/web-router.js-4.1.3.tgz#db72e039389bc4ed7de4b0054563cfc76ab02c53"
+  integrity sha512-iPycPJptaMQm0MDu+vCEZ7ryir+ZsdZM4Y7RuYdNbJ15WhnkOOSoY87WYqIdJdvaltqFdzr5/5wvw6jS7bcwbg==
 
 which-boxed-primitive@^1.0.2:
   version "1.0.2"
