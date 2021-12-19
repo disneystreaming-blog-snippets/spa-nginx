@@ -2,7 +2,7 @@
 
 # NGINX Single Page Application (SPA)
 
-Serving static sites, locally and in production, can be done with tremendous flexibility merely using `docker-compose` and `nginx`. This is a template repository that lays the ground work for such a project.
+Serving static sites, locally and in production, can be done with tremendous flexibility merely using `docker-compose` and `nginx`. This is a template repository that lays the ground work for such a project. You should [read the launch post](https://medium.com/disney-streaming/api-driven-spa-with-nginx-1546a80b5fef), which includes an overview of this repository.
 
 
 ## Getting Started with yarn
